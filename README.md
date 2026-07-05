@@ -24,9 +24,9 @@ A simple command-line calculator built with Python. It supports basic arithmetic
 1. Save the file as "calculator.py".
 2. Open a terminal or command prompt.
 3. Run the following command:
-
+```
 python calculator.py
-
+```
 Example
 
 === Python Calculator ===
